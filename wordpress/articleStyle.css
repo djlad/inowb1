@@ -1,0 +1,48 @@
+.column {
+	
+	float:left;
+	width: 33%;
+	border-style:solid;
+	border-width: 1px;
+	border-color:grey;
+	
+}
+
+body {
+	display: flex;
+	font-family:verdana;
+}
+
+.articlePic{
+	width : 90%;
+	margin-left: 5%;
+}
+
+.summary{
+	margin-left: 5%;
+}
+
+.article-container{
+	font-family: arial;
+}
+
+#column-container{
+	width:1000px;
+	margin: auto;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
